@@ -1,0 +1,13 @@
+siteTitle = "Rachel Munoz Thoughts and Stuff"
+siteDescr = "Art || Tech || Art && Tech"
+siteAuthor = "Rachel Munoz"
+
+
+siteTwitterUrl = "https://twitter.com/rachelumunoz"
+siteGithubUrl = "https://github.com/rachelumunoz"
+siteEmailUrl = "rachelumunoz@gmail.com"
+
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
