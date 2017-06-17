@@ -4,6 +4,8 @@ import { config } from 'config';
 
 import SitePost from '../components/SitePost';
 import SitePage from '../components/SitePage';
+import Project from '../components/Project';
+
 
 class MarkdownWrapper extends React.Component {
   render() {
@@ -12,9 +14,13 @@ class MarkdownWrapper extends React.Component {
     const layout = post.layout;
     let template;
 
-    if (layout !== 'page') {
+    if (layout === 'post') {
       template = <SitePost {...this.props} />;
-    } else {
+    } else if (layout === 'project'){
+      template = <Project {...this.props} />
+    }
+
+    else  {
       template = <SitePage {...this.props} />;
     }
 
