@@ -19,7 +19,6 @@ class MarkdownWrapper extends React.Component {
     } else if (layout === 'project'){
       template = <Project {...this.props} />
     }
-
     else  {
       template = <SitePage {...this.props} />;
     }
