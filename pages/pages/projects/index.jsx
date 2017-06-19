@@ -4,7 +4,7 @@ import sortBy from 'lodash/sortBy';
 import access from 'safe-access';
 import Helmet from 'react-helmet';
 import SiteSidebar from '../../../components/SiteSidebar';
-// import SiteSidebar from '../../../components/SiteSidebar';
+import './style.css';
 
 import { config } from 'config';
 
@@ -28,13 +28,16 @@ class ProjectsIndex extends Component {
         console.log('page is', page)
 
         const strippedLink = page.data.sourceImage.split('./');
-        const imageLink = page.path + strippedLink[1]
+        const imageLink = page.path + strippedLink[1];
 
         projectLinks.push(
-          <div key={page.data.title}>
-            {title}
-            <img src={imageLink}/>
-            <Link to={page.data.path}> See more</Link>
+          <div className="project" key={page.data.title}>
+            <img className="project__image" src={imageLink} alt="thumbnail of project"/>
+            <div className="project__details">
+              {title}<br/>
+              <span className="project__details__tools">{page.data.tools}</span>
+              <Link to={page.data.path}> See more</Link>
+            </div>
           </div>
         )
       } 

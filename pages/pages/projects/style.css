@@ -1,0 +1,19 @@
+.project {
+  display: flex;
+  margin-bottom: 25px;
+}
+
+.project__image {
+  height: 150px;
+}
+
+.project__details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-left: 15px;
+}
+
+.project__details__tools {
+  font-size: 80%;
+}

@@ -4,7 +4,7 @@ layout: project
 path: "/projects/project-test/"
 category: project
 description: "anonymous chat based on location"
-tools: node.js
+tools: "Node.js, Express, React, MongoDB"
 sourceImage: "./anonchat.png"
 ---
 
