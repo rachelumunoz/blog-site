@@ -9,14 +9,18 @@ class Project extends Component {
     const post = route.page.data;
     const home = (
       <div>
-        <Link className="gohome" to={prefixLink('/')}>All Projects</Link>
+        <Link className="gohome" to={prefixLink('/projects/')}>All Projects</Link>
       </div>
     );
 
     console.log('projects inidividual page', post)
 
     return(
-      <div>this is project Component</div>
+      <div>
+        {home}
+        <div>this is project Component</div>
+
+      </div>
     )
   }
 }

@@ -25,10 +25,12 @@ class ProjectsIndex extends Component {
         const datePublished = access(page, 'data.date');
         const category = access(page, 'data.category');
 
+        console.log('page is', page)
 
         projectLinks.push(
           <div key={page.data.title}>
             {title}
+            <Link to={page.data.path}> See more</Link>
           </div>
         )
       } 
