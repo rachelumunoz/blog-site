@@ -3,8 +3,13 @@ title: Anonymous Chat
 layout: project
 path: "/projects/project-test/"
 category: project
-description: "ftesting to see if works"
+description: "anonymous chat based on location"
+tools: node.js
+sourceImage: "./anonchat.png"
 ---
 
-hi this is a test
 
+<figure class="floatLeft">
+  <img  src="./anonchat.png" alt="Early Printing Press">
+  <figcaption>image of anon chat</figcaption>
+</figure>

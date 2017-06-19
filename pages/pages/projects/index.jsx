@@ -27,9 +27,13 @@ class ProjectsIndex extends Component {
 
         console.log('page is', page)
 
+        const strippedLink = page.data.sourceImage.split('./');
+        const imageLink = page.path + strippedLink[1]
+
         projectLinks.push(
           <div key={page.data.title}>
             {title}
+            <img src={imageLink}/>
             <Link to={page.data.path}> See more</Link>
           </div>
         )

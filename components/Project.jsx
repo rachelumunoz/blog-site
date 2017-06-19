@@ -18,8 +18,9 @@ class Project extends Component {
     return(
       <div>
         {home}
-        <div>this is project Component</div>
-
+        <div>{post.title}</div>
+        
+        <div dangerouslySetInnerHTML={{ __html: post.body }} />
       </div>
     )
   }
