@@ -1,6 +1,14 @@
 import React, {Component} from 'react';
 import { Link } from 'react-router';
 import { prefixLink } from 'gatsby-helpers';
+import { config } from 'config';
+
+import ReadNext from '../ReadNext';
+
+
+import './style.css';
+import '../../static/css/highlight.css';
+
 
 
 class Project extends Component {
@@ -15,14 +23,19 @@ class Project extends Component {
 
     console.log('projects inidividual page', post)
 
-    return(
+    return (
       <div>
         {home}
-        <div>{post.title}</div>
-        
-        <div dangerouslySetInnerHTML={{ __html: post.body }} />
+        <div className="blog-single">
+          <div className="text">
+            <h1>{post.title}</h1>
+            <div dangerouslySetInnerHTML={{ __html: post.body }} />
+            
+          </div>
+          
+        </div>
       </div>
-    )
+    );
   }
 }
 

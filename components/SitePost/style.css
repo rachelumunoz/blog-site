@@ -40,11 +40,13 @@
 .blog-post .readmore:hover {
 	border-bottom: 1px solid;
 }
+
 .blog-single {
 	max-width: 945px;
 	margin-left: auto;
 	margin-right: auto;
 }
+
 .blog-single h1 {
 	text-align: center;
 	margin-top: 30px;
