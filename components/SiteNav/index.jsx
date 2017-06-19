@@ -24,6 +24,10 @@ class SiteNav extends React.Component {
             <Link to={prefixLink('/resume/')} activeClassName="current"> Resume
             </Link>
           </li>
+          <li>
+            <Link to={prefixLink('/resources/')} activeClassName="current"> Resources
+            </Link>
+          </li>
         </ul>
       </nav>
     );
