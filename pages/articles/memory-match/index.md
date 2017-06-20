@@ -9,16 +9,26 @@ sourceImage: "./memory-match.png"
 ---
 
 
-<figure style="width:50%;" class="floatLeft">
-  <img src="./memory-match.png" alt="Early Printing Press">
-  <figcaption>image of memory match</figcaption>
-</figure>
-
-<div style="width:50%;" class="floatRight">
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero eum mollitia dolor, reprehenderit ut temporibus asperiores recusandae cupiditate fugiat, eius labore nemo, delectus nobis commodi soluta aperiam maiores sapiente. Eveniet?
+<div class="projects-container">
+  <figure style="width:50%;" >
+    <img  src="./memory-match.png" alt="Early Printing Press">
+  </figure>
+  
+  <div class="project-info" style="width:50%;">
+    <div class="project-links">
+      <a class="project-links__link" target="_blank" href="https://github.com/rachelumunoz/anon-chat"> 
+        See the Code
+      </a>
+      <a class="project-links__link" target="_blank" href="https://the-anon-chat.herokuapp.com/">
+        View live 
+      </a>
+    </div>  
+    <div>  
+      This application is a game of memory using a user's Instagram images.
+    </div>
+    <div style="font-size:75%;">
+      Tools used:
+       Vanilla JavaScript
+    </div>
+  </div>
 </div>
-
-<div>
-  <a href="#">Code</a>
-  <a href="#">Live</a>
-</div>  

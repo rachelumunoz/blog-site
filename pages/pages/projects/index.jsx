@@ -19,7 +19,7 @@ class ProjectsIndex extends Component {
     const sortedPages = sortBy(this.props.route.pages, page => access(page, 'data.date')).reverse(); // not needed for projects?
 
     sortedPages.forEach(page => {
-      if (access(page, 'file.ext') === 'md' && access(page, 'data.layout') === 'project'){
+      if (access(page, 'file.ext') === 'md'  && access(page, 'data.layout') === 'project'){
         const title = access(page, 'data.title') || page.path;
         const description = access(page, 'data.description');
         const datePublished = access(page, 'data.date');

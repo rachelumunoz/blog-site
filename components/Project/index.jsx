@@ -21,8 +21,6 @@ class Project extends Component {
       </div>
     );
 
-    console.log('projects inidividual page', post)
-
     return (
       <div>
         {home}
