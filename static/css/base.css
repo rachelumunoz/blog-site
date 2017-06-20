@@ -17,6 +17,7 @@ a:focus {
 .main-inner {
 	padding: 40px 35px;
 }
+
 @media screen and (max-width:1100px) {
 	.content {
 		lost-column: 2/4;
@@ -39,5 +40,6 @@ a:focus {
 	}
 	.main-inner {
 		padding: 25px 20px;
+
 	}
 }

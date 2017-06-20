@@ -1,5 +1,6 @@
-figure {
+.projects-container img {
   margin-top: 0px; 
+  width: 50%;
 }
 
 .project-links {
@@ -15,7 +16,7 @@ figure {
   justify-content: space-around;
 }
 
-
+/*clearfix*/
 .projects-container:after {
   content: "";
   display: table;
@@ -25,6 +26,26 @@ figure {
 .project-info {
   margin-left: auto;
   margin-right: auto;
+}
+
+@media screen and (max-width:500px) {
+    
+  /* 
+    other (more specific) CSS selectors not working
+    like 
+      .projects-image
+      .projects-info img
+  */
+  img { 
+    display: none;
+  }
+}
+
+
+@media screen and (max-width:650px) {
+  img { 
+    display: none;
+  }
 }
 
 

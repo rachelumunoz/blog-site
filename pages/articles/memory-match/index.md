@@ -10,9 +10,7 @@ sourceImage: "./memory-match.png"
 
 
 <div class="projects-container">
-  <figure style="width:50%;" >
-    <img  src="./memory-match.png" alt="Early Printing Press">
-  </figure>
+  <img class="project-image" src="./memory-match.png" alt="Early Printing Press">
   
   <div class="project-info" style="width:50%;">
     <div class="project-links">
