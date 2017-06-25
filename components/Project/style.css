@@ -4,16 +4,19 @@
 }
 
 .project-links {
+  height: 50px;
   width: 100%;
   display: flex;
   margin: 10px 0;
+  display: flex;
+  /*align-items: center;*/
 }
 .project-links__link  {
   border-radius: 3px;
   background: #f4f4f4;
   padding: 5px 10px; 
   display: flex;
-  justify-content: space-around;
+  /*justify-content: space-around;*/
 }
 
 /*clearfix*/
@@ -28,9 +31,15 @@
   margin-right: auto;
 }
 
-@media screen and (max-width:500px) {
-    
-  /* 
+span.icon { display: none; }
+
+span.text { 
+  display: inline-block; 
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width:650px) {
+    /* 
     other (more specific) CSS selectors not working
     like 
       .projects-image
@@ -38,14 +47,15 @@
   */
   img { 
     display: none;
+    /*border: 1px solid red;*/
   }
-}
+/*
+  .project-image {
+    border: 1px solid black;
+  }*/
 
-
-@media screen and (max-width:650px) {
-  img { 
-    display: none;
-  }
+  span.icon { display: inline-block; }
+  span.text { display: none; }
 }
 
 

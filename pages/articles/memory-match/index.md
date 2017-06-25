@@ -10,15 +10,17 @@ sourceImage: "./memory-match.png"
 
 
 <div class="projects-container">
-  <img class="project-image" src="./memory-match.png" alt="Early Printing Press">
+  <img class="project-image" src="./memory-match.png" alt="llll">
   
   <div class="project-info" style="width:50%;">
     <div class="project-links">
       <a class="project-links__link" target="_blank" href="https://github.com/rachelumunoz/anon-chat"> 
-        See the Code
+        <span class="text"> See the code </span>
+        <span class="icon"> <i class="fa fa-code" aria-hidden="true"></i> </span>
       </a>
       <a class="project-links__link" target="_blank" href="https://the-anon-chat.herokuapp.com/">
-        View live 
+        <span class="text"> View live </span>
+        <span class="icon"> <i class="fa fa-external-link" aria-hidden="true"></i> </span>
       </a>
     </div>  
     <div>  

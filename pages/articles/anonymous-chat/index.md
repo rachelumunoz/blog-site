@@ -9,7 +9,7 @@ sourceImage: "./anonchat.png"
 ---
 
 <div class="projects-container">
-  <img  src="./anonchat.png" alt="Early Printing Press">
+  <img id="project-image" src="./anonchat.png" alt="fff">
   
   <div class="project-info" style="width:50%;">
     <div class="project-links">
