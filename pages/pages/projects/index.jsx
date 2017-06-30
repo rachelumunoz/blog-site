@@ -25,14 +25,16 @@ class ProjectsIndex extends Component {
         const datePublished = access(page, 'data.date');
         const category = access(page, 'data.category');
 
-        console.log('page is', page)
+        // console.log('page is', page)
 
         const strippedLink = page.data.sourceImage.split('./');
         const imageLink = page.path + strippedLink[1];
 
         projectLinks.push(
           <div className="project" key={page.data.title}>
-            <img className="project__image" src={imageLink} alt="thumbnail of project"/>
+            <Link to={page.data.path}>
+              <img className="project__image" src={imageLink} alt="thumbnail of project"/>
+            </Link>
             <div className="project__details">
               {title}<br/>
               <span className="project__details__tools">{page.data.tools}</span>

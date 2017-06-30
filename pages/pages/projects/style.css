@@ -1,10 +1,15 @@
 .project {
   display: flex;
-  margin-bottom: 25px;
+  margin-bottom: 75px;
+}
+
+.project:first-child {
+  margin-top: 50px;
 }
 
 .project__image {
   height: 150px;
+  border: 1px solid grey;
 }
 
 .project__details {
