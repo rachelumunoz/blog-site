@@ -1,6 +1,7 @@
 ---
 title: hello gatsby
 layout: post
+date: 2017-06-28T03:33:56.321Z
 path: "/2017-06-16/"
 category: "general"
 description: first entry on the new site
