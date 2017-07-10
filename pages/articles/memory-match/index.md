@@ -4,7 +4,7 @@ layout: project
 path: "/projects/memory-match/"
 category: project
 description: "A game of memory using Instagram images"
-tools: "Node.js, Express, vanilla JavaScript, jQuery, Instagram API"
+tools: "Node.js, vanilla JavaScript, jQuery, Instagram API"
 sourceImage: "./memory-match.jpg"
 ---
 
