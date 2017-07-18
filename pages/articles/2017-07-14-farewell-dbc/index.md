@@ -2,7 +2,7 @@
 title: Farewell DBC
 layout: post
 date: 2017-07-14T18:09:59.885Z
-path: "/2017-07-014/"
+path: "/2017-07-14/"
 category: "general"
 description: Thanks DBC
 ---
