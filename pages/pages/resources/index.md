@@ -40,10 +40,13 @@ A list of resources that I have found helpful in my journey thus far:
 
   ## Algorithms
   * [Udemy Break Away](https://www.udemy.com/break-away-coding-interviews-1/learn/v4/overview)
+  * [FireCode](https://www.firecode.io/)
   * [HackerRank](https://www.hackerrank.com)
   * [CodeFights](https://codefights.com/)
   * [exercism.io](http://exercism.io/)
   * [Visual Algorithms](https://visualgo.net/en)
+  * [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+
 
   ## Ruby / Rails
   * [Learn to Program](https://www.amazon.com/Learn-Program-Second-Facets-Ruby/dp/1934356360)
@@ -53,8 +56,13 @@ A list of resources that I have found helpful in my journey thus far:
 
   ## Java
   * [Java: The Complete Reference](https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt/dp/0071808558)
+  
+  ## Android
+  * [BNR Android Programming](https://www.bignerdranch.com/books/android-programming/)
+  * [Fragmented Podcast](http://www.fragmentedpodcast.com)
 
   ## Miscellaneous
   * [Udacity Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
   * [code.org How the Internet Works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+  * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 </div>
