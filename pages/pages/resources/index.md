@@ -65,4 +65,10 @@ A list of resources that I have found helpful in my journey thus far:
   * [Udacity Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
   * [code.org How the Internet Works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
   * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+
+  ## Communities // Organizations
+  * [Tech Ladies](https://www.hiretechladies.com/)
+  * [Women Who Code](https://www.womenwhocode.com/)
+  * [Girl Develop It](https://www.girldevelopit.com/)
+  * [Women Techmakers](https://www.womentechmakers.com/)
 </div>
