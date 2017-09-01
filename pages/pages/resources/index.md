@@ -31,6 +31,7 @@ A list of resources that I have found helpful in my journey thus far:
   * [FrontEnd Masters API Design in Node](https://frontendmasters.com/courses/api-design-nodejs/?u=c27d1d7a54857a70aeabd415708138d47c21ab40)
   * [JavaScript Understanding the Weird Parts](https://www.udemy.com/understand-javascript/learn/v4/overview)
   * [Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-Mario-Casciaro/dp/1783287314)
+  * 
 
   ## React / Redux
   * [Udemy Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview)
@@ -63,10 +64,10 @@ A list of resources that I have found helpful in my journey thus far:
 
   ## Miscellaneous
   * [Udacity Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
-  * [code.org How the Internet Works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+  * [code.org -- How the Internet Works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
   * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 
-  ## Communities // Organizations
+  ## Communities / Organizations
   * [Tech Ladies](https://www.hiretechladies.com/)
   * [Women Who Code](https://www.womenwhocode.com/)
   * [Girl Develop It](https://www.girldevelopit.com/)
