@@ -61,6 +61,7 @@ A list of resources that I have found helpful in my journey thus far:
   ## Android
   * [BNR Android Programming](https://www.bignerdranch.com/books/android-programming/)
   * [Fragmented Podcast](http://www.fragmentedpodcast.com)
+  * [Udacity Android Basics -- Networking ](https://classroom.udacity.com/courses/ud843)
 
   ## Miscellaneous
   * [Udacity Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
