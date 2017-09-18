@@ -31,7 +31,6 @@ A list of resources that I have found helpful in my journey thus far:
   * [FrontEnd Masters API Design in Node](https://frontendmasters.com/courses/api-design-nodejs/?u=c27d1d7a54857a70aeabd415708138d47c21ab40)
   * [JavaScript Understanding the Weird Parts](https://www.udemy.com/understand-javascript/learn/v4/overview)
   * [Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-Mario-Casciaro/dp/1783287314)
-  * 
 
   ## React / Redux
   * [Udemy Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview)
@@ -66,6 +65,7 @@ A list of resources that I have found helpful in my journey thus far:
     * [Android Glossary](https://developers.google.com/android/for-all/vocab-words/)
     * [Codelabs](https://codelabs.developers.google.com/)
     * [Google Developers Youtube](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
+    * [Android Developers Backstage Podcast](http://androidbackstage.blogspot.com/)
 
 
   ## Miscellaneous
