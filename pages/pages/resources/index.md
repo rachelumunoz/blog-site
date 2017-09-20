@@ -60,6 +60,7 @@ A list of resources that I have found helpful in my journey thus far:
   ## Android
   * [BNR Android Programming](https://www.bignerdranch.com/books/android-programming/)
   * [Fragmented Podcast](http://www.fragmentedpodcast.com)
+  * [Android Dialogs Youtube](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug)
   * Google
     * [Android Glossary](https://developers.google.com/android/for-all/vocab-words/)
     * [Codelabs](https://codelabs.developers.google.com/)
