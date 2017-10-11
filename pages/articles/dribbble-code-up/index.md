@@ -1,5 +1,6 @@
 ---
 title: Fashion Landing Page
+date: 2017-03-03T08:00:00.000Z
 layout: project
 path: "/projects/fashion-landing-page/"
 category: project

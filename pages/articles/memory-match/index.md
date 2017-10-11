@@ -1,5 +1,6 @@
 ---
 title: Memory Match
+date: 2017-03-01T08:00:00.000Z
 layout: project
 path: "/projects/memory-match/"
 category: project

@@ -1,5 +1,6 @@
 ---
 title: 1000 Words
+date: 2017-10-11T04:08:28.971Z
 layout: project
 path: "/projects/1000-Words/"
 category: project
