@@ -5,7 +5,7 @@ layout: project
 path: "/projects/fashion-landing-page/"
 category: project
 description: "A game of memory using Instagram images"
-tools: "html5, Sass, css3, Flexbox, bem"
+tools: "html5, Sass, css3, Flexbox, bem..."
 sourceImage: "./fashion-landing.jpg"
 ---
 
