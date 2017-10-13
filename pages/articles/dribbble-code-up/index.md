@@ -1,10 +1,11 @@
 ---
 title: Fashion Landing Page
+date: 2017-03-03T08:00:00.000Z
 layout: project
 path: "/projects/fashion-landing-page/"
 category: project
 description: "A game of memory using Instagram images"
-tools: "html5, Sass, css3, Flexbox, bem"
+tools: "html5, Sass, css3, Flexbox, bem..."
 sourceImage: "./fashion-landing.jpg"
 ---
 

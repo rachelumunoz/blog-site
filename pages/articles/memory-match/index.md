@@ -1,10 +1,11 @@
 ---
 title: Memory Match
+date: 2017-03-01T08:00:00.000Z
 layout: project
 path: "/projects/memory-match/"
 category: project
 description: "A game of memory using Instagram images"
-tools: "Node.js, vanilla JavaScript, jQuery, Instagram API"
+tools: "Node.js, vanilla JavaScript, jQuery, Instagram API..."
 sourceImage: "./memory-match.jpg"
 ---
 

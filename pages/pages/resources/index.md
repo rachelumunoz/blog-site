@@ -60,13 +60,21 @@ A list of resources that I have found helpful in my journey thus far:
   ## Android
   * [BNR Android Programming](https://www.bignerdranch.com/books/android-programming/)
   * [Fragmented Podcast](http://www.fragmentedpodcast.com)
+  * [Udacity Android Basics -- Networking ](https://classroom.udacity.com/courses/ud843)
+  * [Android Dialogs Youtube](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug)
+  * Google
+    * [Android Glossary](https://developers.google.com/android/for-all/vocab-words/)
+    * [Codelabs](https://codelabs.developers.google.com/)
+    * [Google Developers Youtube](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
+    * [Android Developers Backstage Podcast](http://androidbackstage.blogspot.com/)
+
 
   ## Miscellaneous
   * [Udacity Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
-  * [code.org How the Internet Works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+  * [code.org -- How the Internet Works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
   * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 
-  ## Communities // Organizations
+  ## Communities / Organizations
   * [Tech Ladies](https://www.hiretechladies.com/)
   * [Women Who Code](https://www.womenwhocode.com/)
   * [Girl Develop It](https://www.girldevelopit.com/)

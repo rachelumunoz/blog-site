@@ -1,10 +1,11 @@
 ---
 title: Anonymous Chat
 layout: project
+date: 2017-04-13T07:00:00.000Z
 path: "/projects/anonymous-chat/"
 category: project
 description: "An anonymous chat based on location"
-tools: "ES6, Node.js, Express, React, MongoDB"
+tools: "ES6, Node.js, Express, React, MongoDB..."
 sourceImage: "./anonchat.png"
 ---
 
